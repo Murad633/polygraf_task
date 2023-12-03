@@ -1,0 +1,26 @@
+.button_items {
+    display:flex;
+    justify-content:center;
+    align-items:center; 
+}
+.google_button {
+    background-color: #0a1042;
+    outline: 0;
+    border: 1px solid #242e89;
+    border-radius: 10px;
+    color: #ebdbee;
+    cursor: pointer;    
+    padding: 10px 0;
+}
+.google_button:hover {
+    background-color: #070c32;
+    border: 1px solid #3443c3;
+}
+.button_text {
+    width: 296px;
+    text-align: center;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+}

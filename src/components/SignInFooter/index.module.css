@@ -1,0 +1,23 @@
+.text {
+    font-size: 12px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #ebdbee;
+    font-family: 'Inter', sans-serif;
+    padding: 0 10px;
+    margin: 0;
+}
+.link {
+    cursor: pointer;
+    text-decoration: none;
+}
+.link:hover {
+    background-color: #ebdbee79;
+    border-radius: 5px;
+}
+.footer {
+    height: 56px;
+    display: flex;
+    align-items: center;
+    padding: 16px 0;
+}

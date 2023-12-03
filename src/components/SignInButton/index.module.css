@@ -1,0 +1,19 @@
+.btn_primary {
+    box-sizing: border-box;
+  width: 100%;
+    background-color: #c11266;
+    outline: 0;
+    border-radius: 10px;
+    color: #ebdbee;
+    cursor: pointer;    
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 600;
+    font-family: 'Inter', sans-serif;
+    height: 46px;
+    border: 1px solid #ef70ad;
+    margin-top: 16px;
+}
+.btn_primary:hover {
+    background-color: #870c48;
+}
