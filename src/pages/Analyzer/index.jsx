@@ -21,8 +21,6 @@ export function Analyzer() {
     try {
       if (user) {
         const userEmail = user.email;
-
-        // Make a POST request to the server to upload the video
         const response = await fetch("http://localhost:8000/videos", {
           method: "POST",
           headers: {
@@ -31,7 +29,6 @@ export function Analyzer() {
           body: JSON.stringify({
             userEmail,
             videoName: file.name,
-            // Add any other relevant information about the video
           }),
         });
 

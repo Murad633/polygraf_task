@@ -1,65 +1,17 @@
 {
   "user": [
     {
-      "fullName": "axasas",
-      "email": "cihote5678@in2reach.com",
-      "password": "12345",
+      "fullName": "Murad Israfilov",
+      "email": "muradisrafilov542@gmail.com",
+      "password": "12345678",
       "id": 1
-    },
-    {
-      "fullName": "scsfcczxcz",
-      "email": "afashifsdifu@isafhfisad.csdifhasd",
-      "password": "234s5d6f7gy",
-      "id": 2
-    },
-    {
-      "fullName": "murad",
-      "email": "murad@gmail.com",
-      "password": "123456",
-      "id": 3
-    },
-    {
-      "fullName": "akif",
-      "email": "akif@email.com",
-      "password": "123",
-      "id": 4
     }
   ],
   "videos": [
     {
-      "userEmail": "cihote5678@in2reach.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
+      "userEmail": "muradisrafilov542@gmail.com",
+      "videoName": "test.mp4",
       "id": 1
-    },
-    {
-      "userEmail": "murad@gmail.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
-      "id": 2
-    },
-    {
-      "userEmail": "cihote5678@in2reach.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
-      "id": 3
-    },
-    {
-      "userEmail": "cihote5678@in2reach.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
-      "id": 4
-    },
-    {
-      "userEmail": "cihote5678@in2reach.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
-      "id": 5
-    },
-    {
-      "userEmail": "murad@gmail.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
-      "id": 6
-    },
-    {
-      "userEmail": "akif@email.com",
-      "videoName": "Polygraf - Brave 2023-12-03 17-47-27.mp4",
-      "id": 7
     }
   ]
 }
